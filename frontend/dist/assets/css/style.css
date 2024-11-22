@@ -1,0 +1,19 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+.logo {
+  display: inline-block;
+  width: 200px;
+  margin-top: -70px;
+  margin-right: 100px;
+}
+.light {
+  background-color: #2196f3;
+}
+
+.nav-link {
+  color: black;
+}
